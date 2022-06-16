@@ -1,0 +1,258 @@
+{
+  "clients": [
+    {
+      "active": true,
+      "address": "Rua São Vicente de Paulo",
+      "addressNumber": "220",
+      "apelido": "teste",
+      "cei": "",
+      "cel": "19987070276",
+      "celResponsible": "78375237557743573",
+      "city": "Limeira",
+      "cityResponsible": "",
+      "cnh": "",
+      "complement": "",
+      "contribuinte": null,
+      "dataOfBirthdate": "",
+      "dataOfBirthdateResponsible": "1999-07-06",
+      "document": "5373783783278327823737",
+      "documentResponsible": "737837837823",
+      "email": "herherhredyedrgh",
+      "emailResponsible": "joaogsdc@gmail.com",
+      "issuer": "",
+      "maritalStatus": "1",
+      "name": "Testando Update",
+      "nameResponsible": "hrhredherherdherd",
+      "neighborhood": "gdfrghrehreherhrehr",
+      "observation": "",
+      "personType": "j",
+      "registerCity": "37345373737",
+      "registerDocument": "",
+      "registerState": "37373737378",
+      "security": "",
+      "tel": "1934410968",
+      "telResponsible": "378373737837327",
+      "uf": "SP",
+      "ufDocument": "",
+      "zipCode": "134480590",
+      "zipCodeResponsible": "",
+      "id": 1
+    },
+    {
+      "active": true,
+      "address": "Rua São Vicente de Paulo",
+      "addressNumber": "220",
+      "apelido": "teste",
+      "cei": "",
+      "cel": "19987070276",
+      "celResponsible": "78375237557743573",
+      "city": "Limeira",
+      "cityResponsible": "",
+      "cnh": "",
+      "complement": "",
+      "contribuinte": null,
+      "dataOfBirthdate": "",
+      "dataOfBirthdateResponsible": "1999-07-06",
+      "document": "5373783783278327823737",
+      "documentResponsible": "737837837823",
+      "email": "herherhredyedrgh",
+      "emailResponsible": "joaogsdc@gmail.com",
+      "issuer": "",
+      "maritalStatus": "1",
+      "name": "Apple Company",
+      "nameResponsible": "hrhredherherdherd",
+      "neighborhood": "gdfrghrehreherhrehr",
+      "observation": "",
+      "personType": "j",
+      "registerCity": "37345373737",
+      "registerDocument": "",
+      "registerState": "37373737378",
+      "security": "",
+      "tel": "1934410968",
+      "telResponsible": "378373737837327",
+      "uf": "SP",
+      "ufDocument": "",
+      "zipCode": "134480590",
+      "zipCodeResponsible": "",
+      "id": 2
+    },
+    {
+      "active": true,
+      "address": "Rua São Vicente de Paulo",
+      "addressNumber": "220",
+      "apelido": "teste",
+      "cei": "",
+      "cel": "19987070276",
+      "celResponsible": "78375237557743573",
+      "city": "Limeira",
+      "cityResponsible": "",
+      "cnh": "",
+      "complement": "",
+      "contribuinte": null,
+      "dataOfBirthdate": "",
+      "dataOfBirthdateResponsible": "1999-07-06",
+      "document": "5373783783278327823737",
+      "documentResponsible": "737837837823",
+      "email": "herherhredyedrgh",
+      "emailResponsible": "joaogsdc@gmail.com",
+      "issuer": "",
+      "maritalStatus": "1",
+      "name": "João Gabriel",
+      "nameResponsible": "hrhredherherdherd",
+      "neighborhood": "gdfrghrehreherhrehr",
+      "observation": "",
+      "personType": "j",
+      "registerCity": "37345373737",
+      "registerDocument": "",
+      "registerState": "37373737378",
+      "security": "",
+      "tel": "1934410968",
+      "telResponsible": "378373737837327",
+      "uf": "SP",
+      "ufDocument": "",
+      "zipCode": "134480590",
+      "zipCodeResponsible": "",
+      "id": 3
+    }
+  ],
+  "estados": [
+    {
+      "description": "Acre",
+      "uf": "AC"
+    },
+    {
+      "description": "Alagoas",
+      "uf": "AL"
+    },
+    {
+      "description": "Amapá",
+      "uf": "AP"
+    },
+    {
+      "description": "Amazonas",
+      "uf": "AM"
+    },
+    {
+      "description": "Bahia",
+      "uf": "BA"
+    },
+    {
+      "description": "Ceará",
+      "uf": "CE"
+    },
+    {
+      "description": "Distrito Federal",
+      "uf": "DF"
+    },
+    {
+      "description": "Espírito Santo",
+      "uf": "ES"
+    },
+    {
+      "description": "Goiás",
+      "uf": "GO"
+    },
+    {
+      "description": "Maranhão",
+      "uf": "MA"
+    },
+    {
+      "description": "Mato Grosso",
+      "uf": "MT"
+    },
+    {
+      "description": "Mato Grosso do Sul",
+      "uf": "MS"
+    },
+    {
+      "description": "Minas Gerais",
+      "uf": "MG"
+    },
+    {
+      "description": "Pará",
+      "uf": "PA"
+    },
+    {
+      "description": "Paraíba",
+      "uf": "PB"
+    },
+    {
+      "description": "Paraná",
+      "uf": "PR"
+    },
+    {
+      "description": "Pernambuco",
+      "uf": "PE"
+    },
+    {
+      "description": "Piauí",
+      "uf": "PI"
+    },
+    {
+      "description": "Rio de Janeiro",
+      "uf": "RJ"
+    },
+    {
+      "description": "Rio Grande do Norte",
+      "uf": "RN"
+    },
+    {
+      "description": "Rio Grande do Sul",
+      "uf": "RS"
+    },
+    {
+      "description": "Rondônia",
+      "uf": "RO"
+    },
+    {
+      "description": "Roraima",
+      "uf": "RR"
+    },
+    {
+      "description": "Santa Catarina",
+      "uf": "SC"
+    },
+    {
+      "description": "São Paulo",
+      "uf": "SP"
+    },
+    {
+      "description": "Sergipe",
+      "uf": "SE"
+    },
+    {
+      "description": "Tocantins",
+      "uf": "TO"
+    }
+  ],
+  "maritalStatus": [
+    {
+      "id": 1,
+      "description": "Solteiro"
+    },
+    {
+      "id": 2,
+      "description": "Casado"
+    },
+    {
+      "id": 3,
+      "description": "Viúvo"
+    },
+    {
+      "id": 4,
+      "description": "Separado judicialmente"
+    },
+    {
+      "id": 5,
+      "description": "Divorciado"
+    },
+    {
+      "id": 6,
+      "description": "União estável"
+    },
+    {
+      "id": 7,
+      "description": "Outros"
+    }
+  ]
+}
