@@ -25,3 +25,6 @@ Projeto CRUD - ReactJS
 4. Vá para o diretório mock e use o comando: `npm install`.<br />
 5. Para iniciar o mock api, use o comando: `npm start`.
 6. Para iniciar a aplicação, use o comando: `npm start`.
+
+## Notas
+Aproveitei a oportunidade para testar a arquitetura de estilo SMACSS utilizando o Styled Components, minha opinião é que é possível de dar certo e mantém tudo bem centralizado como é a intenção desta arquitetura, como o projeto é um projeto pequeno, não foram necessárias muitas divisões dentro dessa arquitetura de estilização, mas já apresentou ser interessante.
